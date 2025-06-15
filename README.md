@@ -46,6 +46,7 @@ This project was developed as part of the **Appscrip Frontend Developer Assignme
 -✅ npm install
 -✅npm start
 
+---
 ## File Structure 
 appscrip-task/
 ├── public/
@@ -69,3 +70,4 @@ appscrip-task/
 │ └── index.js
 ├── package.json
 └── README.md
+---
