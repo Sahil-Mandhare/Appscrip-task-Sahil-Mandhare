@@ -4,7 +4,7 @@ This is a fully responsive and dynamic **Product Listing Page (PLP)** built usin
 
 ---
 
-## 🎯 Why I Built This Project
+##  Why I Built This Project
 
 This project was developed as part of the **Appscrip Frontend Developer Assignment**. The goal was to create a high-performance, responsive product listing UI that allows users to browse, filter, and sort products in an intuitive manner — optimized for both desktop and mobile devices.
 
@@ -12,19 +12,19 @@ This project was developed as part of the **Appscrip Frontend Developer Assignme
 
 ## 🚀 Live Demo
 
-🌐 Hosted on Vercel → [https://appscrip-task-sahil-mandhare.vercel.app](https://appscrip-task-sahil-mandhare.vercel.app/)
+🌐 Hosted on Vercel → https://appscrip-task-sahil-mandhare.vercel.app/
 
 ---
 
 ## 🧰 Technologies Used
 
-- ⚛️ **React.js** (via Create React App)
-- 🎨 **CSS3** (Flexbox, Grid, Media Queries)
-- 🧠 **JavaScript (ES6+)**
-- 🔤 **Google Fonts** – `Inter`, `DM Sans`
-- 🧩 **Flaticon & SVG icons**
-- 🌍 Responsive design for all devices
-- 🏷️ SEO metadata in `index.html`
+- **React.js** (via Create React App)
+- **CSS3** (Flexbox, Grid, Media Queries)
+- **JavaScript (ES6+)**
+- **Google Fonts** – `Inter`, `DM Sans`
+- **Flaticon & SVG icons**
+- Responsive design for all devices
+- SEO metadata in `index.html`
 
 ---
 
