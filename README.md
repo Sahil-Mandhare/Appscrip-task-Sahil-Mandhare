@@ -43,6 +43,6 @@ This project was developed as part of the **Appscrip Frontend Developer Assignme
 ---
 
 ## How to Run :
-npm install
-npm start
+-✅ npm install
+-✅npm start
 
