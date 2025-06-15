@@ -12,7 +12,7 @@ This project was developed as part of the **Appscrip Frontend Developer Assignme
 
 ## 🚀 Live Demo
 
-🌐 Hosted on Vercel → [https://appscrip-plp.vercel.app](https://appscrip-plp.vercel.app) *(dummy link — replace after deployment)*
+🌐 Hosted on Vercel → [https://appscrip-task-sahil-mandhare.vercel.app](https://appscrip-task-sahil-mandhare.vercel.app/)
 
 ---
 
@@ -46,3 +46,26 @@ This project was developed as part of the **Appscrip Frontend Developer Assignme
 -✅ npm install
 -✅npm start
 
+## File Structure 
+appscrip-task/
+├── public/
+│ └── index.html
+├── src/
+│ ├── api/
+│ │ └── fakeStore.js
+│ ├── components/
+│ │ ├── Header.js
+│ │ ├── Footer.js
+│ │ ├── Filters.js
+│ │ └── ProductList.js
+│ ├── styles/
+│ │ ├── Header.css
+│ │ ├── Footer.css
+│ │ ├── Home.css
+│ │ ├── Filter.css
+│ │ └── ProductList.css
+│ ├── Home.js
+│ ├── App.js
+│ └── index.js
+├── package.json
+└── README.md
