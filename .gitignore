@@ -61,7 +61,7 @@ node_modules/
 
 # Gatsby files
 .cache/
-public
+
 
 # Firebase cache
 .firebase/
